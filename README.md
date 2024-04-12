@@ -136,3 +136,4 @@ Assoc. Prof. A. K. Sharma
 
 Prof. P. Anατα
 
+[LinkedIn Profile](https://www.linkedin.com/in/mastersbs/)
