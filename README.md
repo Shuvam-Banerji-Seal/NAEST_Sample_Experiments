@@ -99,3 +99,40 @@ This experiment investigated the discrepancies between the presumed angle and th
 
 The significant difference between the measured and presumed prism angles indicates potential errors in experimental setup or angle measurement. Factors contributing to inaccuracies were analyzed, including instrument calibration, angle estimation, and setup stability.
 
+# Conclusions and Reflections
+
+## Conclusions
+
+- The experiments conducted using home tools yielded valuable insights into fundamental optical phenomena such as refractive index, total internal reflection, and prism behavior.
+- The obtained results, although with some discrepancies, provided reasonable approximations of theoretical values, validating the experimental setup and procedures.
+- Through careful analysis, errors and sources of inaccuracies were identified, contributing to a deeper understanding of experimental limitations and challenges.
+- The certification received acknowledges the proficiency in conducting home laboratory experiments, highlighting the dedication and competence in practical scientific inquiry.
+
+## Experiences and Challenges
+
+- Conducting experiments at home provided a unique and enriching experience, allowing for hands-on exploration of theoretical concepts in optics.
+- Working with limited resources and makeshift setups presented challenges in ensuring precise measurements and control over experimental variables.
+- Calibration of instruments, angle estimation, and maintaining stability in setup were critical aspects that required meticulous attention and improvisation.
+- Despite facing inevitable errors and uncertainties, each experimental iteration provided opportunities for learning and refinement of techniques.
+
+## Certification
+
+**NAEST-2023**
+Organized by National Anveshika Network of India Inani, a unit of Indian Association of Physics Teachers (IAPT), in collaboration with Shiksha Soran.
+
+**Certificate of Excellence** (I am using OCR to paste the contents here)
+
+This certificate is proudly presented to
+
+**SHUVAM BANERJI SEAL** from Indian Institute of Science Education and Research, Kolkata
+
+for securing SECOND position in the Prelims round of doing experiments in the home laboratory, at his center in the National Anveshiks Experimental Skill Test 2023.
+
+We wish him a successful academic career.
+
+Prof. H. C. Verma
+
+Assoc. Prof. A. K. Sharma
+
+Prof. P. Anατα
+
